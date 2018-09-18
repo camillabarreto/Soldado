@@ -1,0 +1,2 @@
+# Soldado
+Classe Soldado
